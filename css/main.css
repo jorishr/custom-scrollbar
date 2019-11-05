@@ -35,4 +35,14 @@ aside {
   border-radius: 10px;
   padding: 1em;
 }
+
+/* SCROLL BAR STYLES */
+.simplebar-scrollbar::before {
+  background-color: #cdcdcd;
+}
+
+.simplebar-track {
+  background-color: #8d8d8d;
+  margin: 2px;
+}
 /*# sourceMappingURL=main.css.map */
