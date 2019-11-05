@@ -2,4 +2,4 @@
 A simple chatbox layout with a custom scrollbar.
 
 - html/css
-- simplebar
+- simplebar library
